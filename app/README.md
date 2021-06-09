@@ -1,6 +1,6 @@
 ### STACK RAILS THEME
 The StackDash admin theme features over 35+ apps & pages built using various html components. All the components in this dashboard theme can be customized through their HTML, SASS and JS source files.
-
+No contact yet
 ## INSTALATION
 
 1. Copy all files and folders from the /app to your rails app/ folder
